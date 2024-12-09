@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b287f478-fe3d-4110-94df-85f8509078b5" name="Changes" comment="added files">
-      <change afterPath="$PROJECT_DIR$/src/Dec2024/ex_01072024_MainMethod/Newrepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec2024/ex_01072024_MainMethod/Newlocation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dec2024/ex_01072024_MainMethod/Newrepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dec2024/ex_01072024_MainMethod/Newrepo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     "Application.Hello_world.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "test__123",
+    "git-widget-placeholder": "tester123",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ShanmukhaTammana",
     "onboarding.tips.debug.path": "C:/Users/ShanmukhaTammana/IdeaProjects/ATB9XJava/src/Main.java",
